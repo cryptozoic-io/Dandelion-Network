@@ -137,7 +137,7 @@ The explorer's net rewards shares like this
 
 The explorer-target's net rewards shares like this
 
-| Exploring-target's net reward total | Exploring-target\(60%\) | CAIDs in explorer's backward path 1\(25%\) | CAIDs in explorer's backward path 2\(15%\) |
+| Exploring-target's net reward total | Exploring-target\(60%\) | CAIDs in exploring-target's backward path 1\(25%\) | CAIDs in exploring-target's backward path 2\(15%\) |
 | :--- | :--- | :--- | :--- |
 | 20 VCC | 20VCC \*60% = 12 VCC | 20VCC \* 25% = 5 VCC | 20VCC \* 15% = 3 VCC |
 
@@ -156,7 +156,7 @@ Note:O gets no reward.because C is in the forward relationship of M not backward
 
 The explorer-target's net \(\(the origin net of E\) rewards are
 
-| Exploring-target's net reward total | Exploring-target\(60%\) | CAIDs in explorer's backward path 1\(25%\) | CAIDs in explorer's backward path 2\(15%\) |
+| Exploring-target's net reward total | Exploring-target\(60%\) | CAIDs in exploring-target's backward path 1\(25%\) | CAIDs in exploring-target's backward path 2\(15%\) |
 | :--- | :--- | :--- | :--- |
 |  | E | B | A.D |
 | 20 VCC | 20VCC \*60% = 12 VCC | 20VCC \* 25% = 5 VCC | A:20VCC \* 15%\*50% = 1.5 VCC. B:20VCC \* 15%\*50% = 1.5 VCC |
