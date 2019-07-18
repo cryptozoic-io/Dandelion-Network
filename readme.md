@@ -4,7 +4,7 @@
 
 Dandelion Network is a real relationship of human society. built-up by graph theory in mathematics , every single person is simply  abstracted as a node in Dandelion Network.every relationship between two persons is simply abstracted as a path in Dandelion Network.
 
-# 2.Characteristic
+## 2.Characteristic
 
 ### 2.1 Directionless
 
