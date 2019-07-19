@@ -152,7 +152,7 @@ The explorer's net\(the origin net of G\) rewards are
 |  | G | M | P.N |
 | 20 VCC | 0 | 20VCC \* 60% = 12 VCC | P:20VCC \* 40%\*50% = 4 VCC.N:20VCC \* 40%\*50% = 4 VCC |
 
-Note:O gets no reward.because C is in the forward relationship of M not backward.
+Note:O gets no reward.because of that O is in the forward relationship of M not backward.
 
 The explorer-target's net \(\(the origin net of E\) rewards are
 
@@ -161,7 +161,7 @@ The explorer-target's net \(\(the origin net of E\) rewards are
 |  | E | B | A.D |
 | 20 VCC | 20VCC \*60% = 12 VCC | 20VCC \* 25% = 5 VCC | A:20VCC \* 15%\*50% = 1.5 VCC. B:20VCC \* 15%\*50% = 1.5 VCC |
 
-Note:C gets no reward.because C is in the forward relationship of B not backward.
+Note:C gets no reward.because of that C is in the forward relationship of B not backward.
 
 
 
